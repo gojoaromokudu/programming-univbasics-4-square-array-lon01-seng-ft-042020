@@ -5,5 +5,5 @@ def square_array(array)
     squares.push(array[i]*array[i])
     i += 1
   end
-  squares
+  return squares
 end
