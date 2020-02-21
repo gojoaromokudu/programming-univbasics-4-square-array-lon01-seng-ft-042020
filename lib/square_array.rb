@@ -1,9 +1,9 @@
 def square_array(array)
-
  i = 0
+ 
   while i < array.length do
     squares.push(array[i]*array[i])
-    i+=
+    i += 1
   end
   squares
 end
