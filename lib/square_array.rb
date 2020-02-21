@@ -1,8 +1,10 @@
 def square_array(array)
+ squares = []
   while i < array.count
   i = 0
   do
-    array[i]*array[i]
+    square = array[i]*array[i]
+    squares.push(squre)
     i+=
   end
 end
