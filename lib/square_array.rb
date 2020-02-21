@@ -5,7 +5,7 @@ def square_array(array)
   
   do
     square = array[i]*array[i]
-    squares.push(squre)
+    squares.push(square)
     i+=
   end
 end
